@@ -6,10 +6,10 @@ I'm a Software Engineer and
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, CSS, and Linux Systems Administration and Cloud.
+- 💡 Fun fact: I studied Cloud Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I learnt Linux Systems Administration, Terraform, ArgoCD as a CI/CD tool, Kubernetes and Docker.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, FrontEnd Engineer, or Cloud Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, DevOps and Cloud Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing agboolaabdulmalik@gmail.com.
 
 ---
